@@ -48,7 +48,8 @@ body{
     border-left: 4px solid var(--botao-ativo);
     border-right: 4px solid var(--botao-ativo);
     border-top: none;
-    
-
-
 }
+
+@media screen and (min-widht: 768px) {
+    
+} 
